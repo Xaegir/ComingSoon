@@ -1,5 +1,5 @@
 [build]
-  publish = "exampleSite/public"
+  publish = "coming-soon/public"
   command = "cd coming-soon && hugo --gc --themesDir ../.."
   
 [build.environment]
